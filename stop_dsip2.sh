@@ -11,24 +11,13 @@ REPLICA_IP="1.1.1.1"
 ACTIVE_LINE_THESHOLD=10
 
 REG_TRUNK_LIST="
-+2638688007036@ims.telone.co.zw
-+2638688007037@ims.telone.co.zw
-+2638688007038@ims.telone.co.zw
-+2638688007039@ims.telone.co.zw
-+2638688007040@ims.telone.co.zw
-+2638688007041@ims.telone.co.zw
-+2638688007042@ims.telone.co.zw
-+2638688007043@ims.telone.co.zw
-+2638688007044@ims.telone.co.zw
-+2638688007045@ims.telone.co.zw
-+2638688007046@ims.telone.co.zw
-+2638688007047@ims.telone.co.zw
++xxxxxxxxxxxx@xxxx.com
++xxxxxxxxxxxx@xxxx.com
 "
 
 INBOUND_TRUNK_IP_LIST="
-167.86.72.12/32
-72.167.39.12/32
-173.212.243.200/32
+xxxxxxxxx/32
+xxxxxxxxxx/32
 "
 
   for trunk in $REG_TRUNK_LIST
